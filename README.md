@@ -12,4 +12,5 @@ This project is tailored for execution within a Linux server environment.
 * smtplib
 * shell
 * crontab
+* Google App Password 
 
