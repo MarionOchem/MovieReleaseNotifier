@@ -19,6 +19,6 @@ This project is tailored for execution within a Linux server environment.
 - requests
 - BeautifulSoup
 - smtplib
-- shell
+- Bash
 - crontab
 - Google App Password
